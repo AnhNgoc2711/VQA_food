@@ -1,0 +1,12 @@
+"""Template API keys — copy sang keys.py rồi điền key thật.
+
+"""
+
+GOOGLE_API_KEYS = [
+    "YOUR_GEMINI_API_KEY_1",
+    "YOUR_GEMINI_API_KEY_2",
+]
+
+# (Tuỳ chọn) — provider khác
+ANTHROPIC_API_KEY = ""
+OPENAI_API_KEY = ""

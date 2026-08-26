@@ -1,0 +1,47 @@
+# --- Secrets ---
+keys.py
+.env
+.env.*
+
+# --- Python / env ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+*.egg
+dist/
+build/
+
+# --- Data (large) ---
+images/
+
+# --- Checkpoints / weights ---
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# --- Demo / archives ---
+DEMO_1.mp4
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# --- Training logs / TensorBoard ---
+outputs/logs/
+outputs/runs/
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

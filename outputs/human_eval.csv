@@ -1,0 +1,31 @@
+image_path,question,winner,choice
+images/am_thuc/chao_long/000048.jpg,Bạn thấy những màu gì trong ảnh?,DPO,B
+images/am_thuc/cha_lua/000003.jpg,Bạn có thấy đĩa trong ảnh không?,Tie,Tie
+images/am_thuc/bun_bo_Hue/000019.jpg,Trong ảnh có màu đỏ không?,Tie,Tie
+images/am_thuc/banh_ran/000044.jpg,Trong ảnh có bánh rán không?,Tie,Tie
+images/am_thuc/banh_chung_gu/000028.jpg,Bạn thấy món gì trong ảnh?,DPO,B
+images/am_thuc/bun_cha_Ha_Noi/000010.jpg,Bạn thấy món gì trong ảnh?,SFT,A
+images/am_thuc/cha_lua/000046.jpg,Bạn có thấy màu trắng trong ảnh không?,Tie,Tie
+images/am_thuc/banh_ran/000044.jpg,Bạn có thấy dầu ăn trong ảnh không?,Tie,Tie
+images/am_thuc/tom_kho/000018.png,Các nguyên vật liệu trong ảnh là gì?,DPO,A
+images/am_thuc/banh_chay/000037.jpg,Bức ảnh được chụp theo góc nào?,Tie,Tie
+images/am_thuc/banh_can_Phan_Thiet/000029.jpg,Bạn thấy món gì trong ảnh?,Tie,Tie
+images/am_thuc/mi_Quang/000014.jpg,Trong ảnh có những màu nào?,DPO,B
+images/am_thuc/banh_chay/000024.jpg,Trong ảnh gồm những thành phần nào?,SFT,B
+images/am_thuc/bun_cha_Ha_Noi/000032.png,Bạn thấy những màu gì trong ảnh?,DPO,B
+images/am_thuc/cha_ca_La_Vong/000031.png,Món ăn có những nguyên vật liệu nào?,DPO,A
+images/am_thuc/cha_lua/000005.jpg,Các nguyên vật liệu trong ảnh là gì?,DPO,B
+images/am_thuc/gio_thu/000021.jpg,Bạn thấy những màu gì trong ảnh?,DPO,B
+images/am_thuc/cha_lua/000005.jpg,Trong ảnh có những màu nào?,DPO,A
+images/am_thuc/banh_cuon/000051.jpg,Trong ảnh có những gì?,DPO,A
+images/am_thuc/keo_dua_Ben_Tre/000035.png,Trong ảnh có những gì?,DPO,A
+images/am_thuc/banh_trang_nuong/000026.jpg,Bạn có thấy vỉ nướng trong ảnh không?,Tie,Tie
+images/am_thuc/banh_pia/000058.jpg,Bức ảnh được chụp theo góc nào?,Tie,Tie
+images/am_thuc/banh_cuon/000027.jpg,Bạn có thấy lá chuối trong ảnh không?,Tie,Tie
+images/am_thuc/com_tam_Sai_Gon/000026.jpg,Trong ảnh có cơm tấm không?,Tie,Tie
+images/am_thuc/banh_chung_gu/000049.jpg,Bạn thấy món gì trong ảnh?,DPO,A
+images/am_thuc/banh_pia/000015.jpg,Bạn thấy món gì trong ảnh?,DPO,B
+images/am_thuc/mam_tom/000015.png,Trong ảnh có màu đỏ không?,Tie,Tie
+images/am_thuc/com_tam_Sai_Gon/000030.jpg,Bạn thấy những màu gì trong ảnh?,DPO,A
+images/am_thuc/ca_phe_phin/000054.jpg,Trong ảnh có màu nâu không?,Tie,Tie
+images/am_thuc/pho_Viet_Nam/000047.jpg,Món ăn có những nguyên vật liệu nào?,DPO,B

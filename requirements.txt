@@ -1,0 +1,34 @@
+# --- Core DL ---
+torch>=2.1
+torchvision>=0.16
+timm>=1.0.7
+transformers>=4.45
+accelerate>=0.34
+peft>=0.13
+trl>=0.12
+
+# --- Vietnamese NLP ---
+underthesea>=8.3
+
+# --- Eval ---
+sacrebleu>=2.4
+rouge-score>=0.1.2
+bert-score>=0.3.13
+evaluate>=0.4
+
+# --- Demo & UI ---
+gradio>=4.44
+
+# --- Utilities ---
+tqdm>=4.66
+tensorboard>=2.16
+pillow>=10.0
+pandas>=2.0
+numpy>=1.26
+pyyaml>=6.0
+
+# --- LLM-as-a-judge (mặc định Gemini — free tier) ---
+google-genai>=1.0
+
+# --- Qwen-VL helper (recommend) ---
+qwen-vl-utils>=0.0.8
