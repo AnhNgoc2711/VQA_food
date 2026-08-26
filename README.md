@@ -184,8 +184,6 @@ $env:GOOGLE_API_KEY = "key1,key2"
 
 ## Quickstart
 
-> Chưa có `images/` / `checkpoints/`? Xem [Download data & checkpoints](#download-data--checkpoints-google-drive).
-
 ### 1. Kiểm tra data
 
 ```bash
@@ -260,18 +258,5 @@ python demo.py
 ```
 
 ---
-
-
-
-## Evaluation details
-
-
-| Metric        | Ghi chú                              |
-| ------------- | ------------------------------------ |
-| **EM**        | Exact match sau normalize            |
-| **BLEU**      | `sacrebleu` corpus BLEU              |
-| **ROUGE-L**   | `rouge-score`                        |
-| **BERTScore** | `xlm-roberta-base` (đa ngữ)          |
-| **Human**     | Blind A/B (SFT vs DPO), shuffle nhãn |
 
 
